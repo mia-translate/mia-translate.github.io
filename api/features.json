@@ -1,0 +1,18 @@
+{
+  "features": {
+    "cloudPlatformApiKey": "AIzaSyCwpjcVR2KRQX3cCLT6JAAQg-VxGfHJIcQ",
+    "paygate": {
+      "freeCharacterCount": 10000,
+      "isAnalyticsEnabled": true,
+      "isBillingEnabled": true,
+      "isCountEnabled": true,
+      "isEnabled": true,
+      "isPremiumEnabled": true,
+      "premiumCloudPlatformApiKey": "AIzaSyCwpjcVR2KRQX3cCLT6JAAQg-VxGfHJIcQ",
+      "purchaseCharacterCount": 100000
+    },
+    "popup": true,
+    "provider": "google_alternative",
+    "requestToken": false
+  }
+}
