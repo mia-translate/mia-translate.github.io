@@ -1,6 +1,6 @@
 {
   "features": {
-    "cloudPlatformApiKey": "AIzaSyCwpjcVR2KRQX3cCLT6JAAQg-VxGfHJIcQ",
+    "cloudPlatformApiKey": null,
     "paygate": {
       "freeCharacterCount": 10000,
       "isAnalyticsEnabled": true,
@@ -8,7 +8,7 @@
       "isCountEnabled": true,
       "isEnabled": true,
       "isPremiumEnabled": true,
-      "premiumCloudPlatformApiKey": "AIzaSyCwpjcVR2KRQX3cCLT6JAAQg-VxGfHJIcQ",
+      "premiumCloudPlatformApiKey": null,
       "purchaseCharacterCount": 100000
     },
     "popup": true,
