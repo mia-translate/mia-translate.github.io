@@ -1,0 +1,24 @@
+{
+  "features": {
+    "cloudPlatformApiKey": null,
+    "paygate": {
+      "freeCharacterCount": 10000,
+      "isAnalyticsEnabled": true,
+      "isBillingEnabled": false,
+      "isCountEnabled": true,
+      "isEnabled": false,
+      "isPremiumEnabled": false,
+      "premiumCloudPlatformApiKey": null,
+      "purchaseCharacterCount": 100000
+    },
+    "popup": true,
+    "provider": "google_alternative",
+    "requestToken": false,
+    "donate": {
+      "isEnabled": true,
+      "url": "https://mia-translate.github.io/donate.html",
+      "timeout": 86400,
+      "clickedTimeout": 604800
+    }
+  }
+}
