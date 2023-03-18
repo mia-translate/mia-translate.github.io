@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Mia</title>
+        <item>
+            <title>2.3</title>
+            <pubDate>Sat, 18 Mar 2023 22:08:08 +0300</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://mia-translate.github.io/api/v2/Mia%202.3.zip" length="15779306" type="application/octet-stream" sparkle:edSignature="cFn4AUduI+E/o+L5uupPvjQACWoF2WuLNG6y2ET8YNwcQC2Wg1vXYbaamoGwx1NrgwY+p5tJml+J2MP/kARhDA=="/>
+        </item>
+    </channel>
+</rss>
