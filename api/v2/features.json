@@ -17,8 +17,8 @@
     "donate": {
       "isEnabled": true,
       "url": "https://mia-translate.github.io/donate.html",
-      "timeout": 86400,
-      "clickedTimeout": 604800
+      "timeout": 604800,
+      "clickedTimeout": 2419200
     }
   }
 }
